@@ -4,13 +4,13 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBhzLYJe-lLe8vmy0WwgfxIHbSckf2hBYU",
-  authDomain: "wavesbytelanding.firebaseapp.com",
-  projectId: "wavesbytelanding",
-  storageBucket: "wavesbytelanding.appspot.com",
-  messagingSenderId: "123180672283",
-  appId: "1:123180672283:web:7e1a922f6cf3c21a951fbe",
-  measurementId: "G-2F34XFMFB2",
+  apiKey: "AIzaSyB-rEk49h9E8haoFUnbYWMaWAgfRz6Knmg",
+  authDomain: "wavesbyte-landing.firebaseapp.com",
+  projectId: "wavesbyte-landing",
+  storageBucket: "wavesbyte-landing.firebasestorage.app",
+  messagingSenderId: "397243020960",
+  appId: "1:397243020960:web:bd802335f3ce21404f3bc5",
+  measurementId: "G-8NHKMRDQS6"
 };
 
 const app = initializeApp(firebaseConfig);
